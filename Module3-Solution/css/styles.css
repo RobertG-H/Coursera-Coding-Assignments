@@ -1,0 +1,83 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #123455;
+  font-family: 'Oswald', sans-serif;
+}
+
+#header-nav{
+	background-color: #B9E322;
+	border-radius: 0;
+	border: 1px solid #ddffdd;
+
+
+}
+
+.navbar-brand h1{ /*name Food,LLC*/
+	font-weight: 400;
+	color: #3477CC;
+	text-shadow: 2px 2px 2px #222;
+	font-size: 1.8em;
+	vertical-align: middle;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height:  .75;
+		padding-bottom: 10px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}	
+
+.page-header{
+	font-size: 1.3em;
+	color: #ffffff;	
+	font-weight: 400;
+}
+
+
+#nav-list{
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+}
+#nav-list li a{
+	color: #ffffff;
+	text-align: center;
+	background-color: #99C302;
+	border-bottom: 1px solid #ddffdd;
+
+
+}
+
+#collapsable-nav{
+	
+}
+
+.textBox{
+	margin-bottom: 20px;
+}
+.row {
+	width: 100%;
+}
+
+
+#chicken, #beef, #sushi{
+	font-size: 1.3em;
+	font-weight: 200;
+	
+}
+
+
+
+.mainText{
+	padding: 10px;	
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: #052233;
+}
+
+.mainText > div{
+	margin-bottom: 10px;
+	font-size: 0.9em;
+}
