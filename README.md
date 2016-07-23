@@ -1,6 +1,2 @@
-# Module-2-Coding-Assignment
+# Coding-Assignments
 Coursera Web Dev course project
-
-Finished project complete with dota memes.
-
-Color combos are bad, I know.
